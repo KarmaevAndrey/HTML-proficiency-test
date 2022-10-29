@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(210, 198, 198);
+}
+
+.to_center{
+    display: block;
+    text-align: center;
+}
+
+.question_button{
+    font-size: 150%;
+    color: rgb(202, 179, 216);
+    background-color: rgb(92, 82, 114);
+    border-style: inset;
+    border-width: 2px;
+    display: inline-block;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin: 15px 25px;
+    padding: 15px 20px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    transition: 0.4s ease-in-out;
+    
+}
+
+.main_question{
+    font-size: 200%;
+    font-weight: bold;
+}
+
+.additional_question{
+    font-weight: initial;
+    font-size: 180%;
+}
+
+.Git_icon{ 
+    text-align: end;
+}
+
+.presrnt_icon{
+    display: block;
+    text-align: center;
+}
