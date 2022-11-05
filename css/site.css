@@ -29,6 +29,8 @@ body{
 /* пример  https://html5book.ru/styling-hyperlinks/#part6*/
 
 
-.Git_icon{ 
-    text-align: end;
+.Git_icon {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
 }
